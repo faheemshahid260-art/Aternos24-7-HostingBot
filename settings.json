@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "apexmc.playwithbao.com",
+    "ip": "apexmcf.playwithbao.com",
     "port": 37334,
     "version": "",
     "try-creative": false
